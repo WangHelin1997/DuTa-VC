@@ -16,7 +16,7 @@ If you find the code useful for your research, please consider citing:
 @inproceedings{wang23qa_interspeech,
   author={Helin Wang and Thomas Thebaud and Jesús Villalba and Myra Sydnor and Becky Lammers and Najim Dehak and Laureano Moro-Velazquez},
   title={{DuTa-VC: A Duration-aware Typical-to-atypical Voice Conversion Approach with Diffusion Probabilistic Model}},
-  year=2023,
+  year={2023},
   booktitle={Proc. INTERSPEECH 2023},
   pages={1548--1552},
   doi={10.21437/Interspeech.2023-2203}
